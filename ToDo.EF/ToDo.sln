@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.EF", "ToDo.EF\ToDo.EF.csproj", "{DBBAFEE3-A0CA-4B59-842A-091DA7DD3422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Desktop", "ToDo.Desktop\ToDo.Desktop.csproj", "{F9E8D30B-C874-4007-87A6-D0099310552E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Web", "ToDo.Web\ToDo.Web.csproj", "{DCE3890C-90B4-4C17-B5F5-6631BC1DD07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBAFEE3-A0CA-4B59-842A-091DA7DD3422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBAFEE3-A0CA-4B59-842A-091DA7DD3422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBAFEE3-A0CA-4B59-842A-091DA7DD3422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBAFEE3-A0CA-4B59-842A-091DA7DD3422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E8D30B-C874-4007-87A6-D0099310552E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E8D30B-C874-4007-87A6-D0099310552E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E8D30B-C874-4007-87A6-D0099310552E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E8D30B-C874-4007-87A6-D0099310552E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE3890C-90B4-4C17-B5F5-6631BC1DD07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE3890C-90B4-4C17-B5F5-6631BC1DD07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE3890C-90B4-4C17-B5F5-6631BC1DD07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE3890C-90B4-4C17-B5F5-6631BC1DD07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

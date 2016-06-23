@@ -1,0 +1,13 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\ToDo.EF.dll.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\ToDo.EF.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\ToDo.EF.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\EntityFramework.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\EntityFramework.xml
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\obj\Debug\ToDo.EF.dll
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\obj\Debug\ToDo.EF.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\ToDo.EF\ToDo.EF\obj\Debug\ToDo.EF.csprojResolveAssemblyReference.cache
